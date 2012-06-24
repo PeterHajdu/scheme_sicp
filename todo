@@ -1,6 +1,3 @@
- * Implement a general time measuring procedure to be able to compare
-   algorithm speed.
-
  * Implement a procedure that computes the elements of Pascal's triangle
    by means of a recursive process.
 
